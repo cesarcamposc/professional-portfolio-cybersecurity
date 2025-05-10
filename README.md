@@ -1,1 +1,5 @@
 # professional-portfolio-cybersecurity
+
+I am a cybersecurity professional specialized in vulnerability analysis, with experience in identifying and mitigating risks in critical infrastructures. My background in software engineering and my cybersecurity certification have provided me with a solid foundation to address the security challenges of today's digital environment.
+I stand out for my analytical thinking capacity and meticulous attention to detail, skills that I have refined over 2 years. I am firmly committed to protecting sensitive information and cybersecurity education, values that I consider fundamental for building digitally resilient organizations.
+I seek to contribute my technical knowledge and passion for computer security to organizations that value the proactive protection of their digital assets. My methodical approach and ability to communicate technical concepts to diverse audiences allow me to contribute both to the implementation of security solutions and to the creation of an organizational culture aware of cyber risks.
